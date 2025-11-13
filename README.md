@@ -14,4 +14,5 @@ Demonstrate that OCR field extraction and CSV export work correctly for a fixed 
    ```bash
    npm install
 2. Run the main program:
+   ```bash
    npm start
