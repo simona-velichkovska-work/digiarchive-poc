@@ -39,7 +39,7 @@ Extract structured data from a single sample image using **Tesseract.js** and No
 
 ## Field Handling
 
-- **Numeric fields:** `hr_`, `bp_`, `rr_`, `urine`, `temperature`, `oxygen`.
+- **Numeric fields:** `hr_`, `bp_`, `rr_`, `urine_`, `temp_`, `ox_`.
 - **Observation text fields:** fields ending with `_obs`.
 - **Default fields:** all other fields.
 
